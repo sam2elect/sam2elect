@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sam2elect" target="blank"><img src="https://img.shields.io/twitter/follow/sam2elect?logo=twitter&style=for-the-badge" alt="sam2elect" /></a> </p>
 
-- 🔭 I’m currently working on **MVC**
+- 🔭 I’m currently working on **EurekaSim**
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **VRML**
 
 - 👨‍💻 All of my projects are available at [https://www.eurekasim.com//AuthorDetails.aspx?AID=sam2elect@gmail.com](https://www.eurekasim.com//AuthorDetails.aspx?AID=sam2elect@gmail.com)
 
