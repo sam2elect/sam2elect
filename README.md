@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **EurekaSim**
 
-- 🌱 I’m currently learning **VRML**
+- 🌱 I’m currently learning **openGL**
 
 - 👨‍💻 All of my projects are available at [https://www.eurekasim.com//AuthorDetails.aspx?AID=sam2elect@gmail.com](https://www.eurekasim.com//AuthorDetails.aspx?AID=sam2elect@gmail.com)
 
