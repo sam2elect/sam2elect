@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samir kumar</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center"></h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam2elect&label=Profile%20views&color=0e75b6&style=flat" alt="sam2elect" /> </p>
