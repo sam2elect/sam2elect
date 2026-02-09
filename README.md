@@ -63,12 +63,12 @@ Building, deploying, and maintaining **scalable, secure, enterprise-grade web ap
 ## 📈 GitHub Performance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sam2elect&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sam2elect&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam2elect&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@ Building, deploying, and maintaining **scalable, secure, enterprise-grade web ap
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sam2elect@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
