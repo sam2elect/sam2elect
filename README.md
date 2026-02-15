@@ -1,10 +1,9 @@
-<!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Samir;Full+Stack+Developer;Python+%7C+AI+Integration;Cloud+%7C+Secure+APIs" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sam2elect&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -27,36 +26,6 @@ Building, deploying, and maintaining **scalable, secure, enterprise-grade web ap
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,angular,mongodb,mysql,python,aws,docker,git,linux&theme=light" />
 </p>
-
----
-
-- Node.js & Express.js
-- Python (FastAPI / Flask)
-- RESTful & Secure API Design
-- Authentication & Authorization (JWT, RBAC)
-- AI service integration via APIs
-
-- Angular
-- TypeScript & JavaScript
-- Responsive & Component-based UI
-- AI-powered UI features (chat, search, automation)
-
-- MongoDB
-- MySQL / SQL
-
-- NumPy, Pandas
-- scikit-learn
-- TensorFlow / PyTorch (model usage & inference)
-- OpenAI / LLM APIs
-- NLP & automation pipelines
-
-- AWS (EC2, S3, IAM)
-- Docker (containerized services)
-- Basic CI/CD pipelines
-
-- Git & GitHub
-- VS Code
-- Linux
 
 ---
 
