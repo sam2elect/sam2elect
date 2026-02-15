@@ -84,4 +84,4 @@ Building, deploying, and maintaining **scalable, secure, enterprise-grade web ap
 
 ---
 
-⭐ **Open to Full-Stack, Backend, and AI-Integrated Application Development Roles**
+⭐ **Open to Full-Stack, Backend, and AI-Integrated Application Development**
