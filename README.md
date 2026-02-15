@@ -70,7 +70,7 @@ Building, deploying, and maintaining **scalable, secure, enterprise-grade web ap
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/sam2elect" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="mailto:sam2elect@gmail.com">
